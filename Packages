@@ -29,13 +29,13 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.old
 Package: com.yourepo.kacak.30aaassistivetouch
 Version: 0.0
 Section: Theme
-Maintainer: k4c4k <>
+Maintainer: k4c4k
 Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.yourepo.kacak.30aaasissistivetouch_iphoneos-arm.deb
-Size: 860
+Size: 851
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: To Theme your Assistive Touch.
 Name: 30 AA Assistitive Touch
-Author: k4c4k <>
-
+Author: k4c4k
+Depiction: https://sirapex.github.io/sirapex/depictions/?p=com.yourepo.kacak.30aaassistivetouch
