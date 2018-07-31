@@ -1,41 +1,165 @@
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+SHA1: 46bbcd314f5bcb29e05e287f08fe50e6547ea401
+SHA256: b01c426f4e262c901fd0a9dce060d89327af05bdbd203ce7527c133c1bc8cafd
+Section: Tweaks
 Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Name: New Package
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (<7.0)
-Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
 Size: 860
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
+SHA1: 44f945218a8f72e24ad69191bfee4a89bb7e9bc0
+SHA256: 2d0cf4ea9ddc1d1be3968c869ddd29bd850eae37ccd9b35d100f72b7aca62f8e
+Section: Tweaks
 Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Name: Old Package
 
 Package: com.yourepo.kacak.30aaassistivetouch
-Version: 0.0
-Section: Theme
-Maintainer: k4c4k
-Depends: firmware (>7.0)
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/com.yourepo.kacak.30aaasissistivetouch_iphoneos-arm.deb
-Size: 851
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: To Theme your Assistive Touch.
-Name: 30 AA Assistitive Touch
-Author: k4c4k
-Depiction: https://sirapex.github.io/depictions/?p=com.yourepo.kacak.30aaassistivetouch
+Filename: ./debs/com.yourepo.kacak.30aaassistivetouch_iphoneos-arm.deb
+Size: 871192
+MD5sum: f929698ab03c6f420b2d160255cf01fc
+SHA1: 771d71efdd2890fa225c3a970d6e99c13241c65d
+SHA256: a307098243fd4961ba375d60ab4e6eb146f675c14b4d3b228a3c8aaf86e7ad87
+Section: Themes
+Description: 30aa Assistive Touch. Blablabla Blablabla Blablabla
+Author: KacaK
+Name: 30aa Assistive Touch
+
+Package: creamy.apple.ijbmv
+Version: 0.0
+Architecture: iphoneos-arm
+Maintainer: Lagi Tak Tau Sape
+Filename: ./debs/creamy.apple.ijbmv_0.0_iphoneos-arm.deb
+Size: 45766
+MD5sum: c9a98ccd08e446074932b47a9e2a7615
+SHA1: d90fe00576c09c17ebc83ef2744bfbccd62f5149
+SHA256: 9ca54b53b8bdf2369b84665ef28af23d5377f2b3e6a8124a669792fa18961570
+Section: Themes
+Description: Creamy Apple Zeppelin theme ?
+Author: Tah Sape Sape
+Name: CreamyAppleiJBMV
+
+Package: de.nielstron.hollowforopennotifier
+Version: 0.9.1
+Architecture: all
+Maintainer: nielstron <nielstron@nielstron.de>
+Installed-Size: 450
+Depends: net.tateu.opennotifier | net.tateu.opennotifierbeta | com.n00neimp0rtant.opennotifier | net.tateu.opennotifier9
+Replaces: net.tateu.opennotifier, net.tateu.opennotifierbeta, com.n00neimp0rtant.opennotifier, net.tateu.opennotifier9
+Filename: ./debs/de.nielstron.hollowforopennotifier_0.9.1_iphoneos-arm.deb
+Size: 20708
+MD5sum: a1e60aa684f21b149cf28121ddb0d077
+SHA1: 5c91f2a1349937f6652fda504385e263998feba0
+SHA256: 236e542eb146dd78143759b3754a0503525ccbbe0bb033994721b6eb5b045bb8
+Section: Addons (OpenNotifier)
+Homepage: http://www.nielstron.de/sub/repo/descr/description.php?bid=hollowforopennotifier
+Description: Hollow icon pack for OpenNotifier
+Author: rcnino <rcnino@nielstron.de>
+Date: Wed, 31 Aug 2016 12:28:44 -0100
+Depiction: http://www.nielstron.de/sub/repo/descr/description.php?bid=hollowforopennotifier
+Name: Hollow for OpenNotifier
+Packager-Version: 0.9.4
+Sponsor: Nielstron <http://www.nielstron.de>
+
+Package: en.apex.badgessplat
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: sirapex
+Filename: ./debs/en.kacak.badgessplat_1.0_iphoneos-arm.deb
+Size: 19486
+MD5sum: 403c4ba27d6f785def8105ceec3ee848
+SHA1: fb2f29d1fbaa6f97d349426cc986a572bccc36f3
+SHA256: aa8211e1941b00a51996fe24bc1ef5db4556051b2cb895020951982d48df11a3
+Section: Cydia Category
+Description: badges splat
+Author: sirapex
+Name: badges splat
+
+Package: en.kacak.MYzeppelin
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: sirapex
+Filename: ./debs/en.kacak.MYzeppelin_1.2_iphoneos-arm.deb
+Size: 204900
+MD5sum: aa1955f7e6de66de1e6a82b9fbe9e6a6
+SHA1: 587f6178bcc77e6d5fc0594c96c4954dd64de594
+SHA256: d9ad9bef4952b09f4236e4e35a2605fac64ee519bb985fb82c5ef1947fce8bf9
+Section: Cydia Category
+Description: Malaysian Carrier Logos. Obviously required and apply with Zeppelin. Support IOS 8.3 - 10.2. Compatible devices : iphone 5/5s, 6/6s
+Author: sirapex
+Name: Malaysian Mobile Network for Zeppelin
+
+Package: en.kacak.freshAFZeppelin
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./debs/en.kacak.freshAFZeppelin_1.1_iphoneos-arm.deb
+Size: 43188
+MD5sum: b3e61a2f9d3706b1266cd47354b6a75a
+SHA1: 3eb865d40e521bc51cb3121d8423de093072d975
+SHA256: 9f423f98b46a249dbf051d65e5e668961829a10b8a301518e43eab03041f9bac
+Section: Cydia Category
+Description: bla bla bla
+Author: Unknown
+Name: freshAF Zeppelin
+
+Package: en.sirapex.skulldjvolumehud
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: sir apex
+Filename: ./debs/en.kacak.skulldjvolumehud_1.0_iphoneos-arm.deb
+Size: 367940
+MD5sum: 8d78e31d40555f0bb9bd41f91f7b93c9
+SHA1: 832af2b0b66e8d5fa8d08ff55cf36cac3d1dd729
+SHA256: bc3604e738a13f8c8dfcfdd662ba78fca298b5355e2afd8a773094bf422b9926
+Section: Cydia Category
+Description: Replace the normal boring volume hud to Skull DJ Volume Hud
+Author: sir apex
+Name: Skull DJ Volume Hud
+
+Package: en.sirapex.skulldjvolumehud
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: sir apex
+Filename: ./debs/en.sirapex.skulldjvolumehud_1.1_iphoneos-arm.deb
+Size: 67668
+MD5sum: e3f06a5c92e3c774bcb0f9ef58d49365
+SHA1: 936b3987357d659f784b77b69482850981bc3e75
+SHA256: 39eab6d4c0140c06941e534b08563e9edee1625ce6a85c15572c275a3f806963
+Section: Cydia Category
+Description: Replace the normal boring volume hud to Skull DJ Volume Hud
+Author: sir apex
+Name: Skull DJ Volume Hud
+
+Package: this.is.twopixel
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: ./debs/this.is.twopixel_1.0_iphoneos-arm.deb
+Size: 1723614
+MD5sum: 526d0119bcab55dd693c8e03d4f528a4
+SHA1: 21ed72ccaeeb927389c31b4afa64d41e939f68cc
+SHA256: 009a372706783c78e37d5b4fdd18a7622bb522ee6aa9d01f7757bde8c32acc1b
+Section: Cydia Category
+Description: Originally from Xiaomi Redmi Note 4.
+Author: Unknown
+Name: TwoPixel
+
