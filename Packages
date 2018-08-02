@@ -8,13 +8,13 @@ SHA1: 771d71efdd2890fa225c3a970d6e99c13241c65d
 SHA256: a307098243fd4961ba375d60ab4e6eb146f675c14b4d3b228a3c8aaf86e7ad87
 Section: Themes
 Description: 30aa Assistive Touch. Blablabla Blablabla Blablabla
-Author: k4c4k
+Author: KacaK
 Name: 30aa Assistive Touch
 
 Package: creamy.apple.ijbmv
 Version: 0.0
 Architecture: iphoneos-arm
-Maintainer: k4c4k
+Maintainer: Lagi Tak Tau Sape
 Filename: ./debs/creamy.apple.ijbmv_0.0_iphoneos-arm.deb
 Size: 45766
 MD5sum: c9a98ccd08e446074932b47a9e2a7615
@@ -22,7 +22,7 @@ SHA1: d90fe00576c09c17ebc83ef2744bfbccd62f5149
 SHA256: 9ca54b53b8bdf2369b84665ef28af23d5377f2b3e6a8124a669792fa18961570
 Section: Themes
 Description: Creamy Apple Zeppelin theme ?
-Author: k4c4k
+Author: Tah Sape Sape
 Name: CreamyAppleiJBMV
 
 Package: de.nielstron.hollowforopennotifier
@@ -47,87 +47,115 @@ Name: Hollow for OpenNotifier
 Packager-Version: 0.9.4
 Sponsor: Nielstron <http://www.nielstron.de>
 
+Package: en.apex.KacaK
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: sirapex
+Filename: ./debs/en.apex.KacaK_1.0_iphoneos-arm.deb
+Size: 325524
+MD5sum: 324ccc10f8dd07ed73886b9df3ea87e7
+SHA1: 48c508f546d5693310fb03dd8031a49ea8a467a1
+SHA256: 8dc52d4296c8b9a8449fd5b9e9c989fff14b08202465b897492eb02cab209000
+Section: Cydia Category
+Description: apex newbies.
+Author: sirapex
+Name: KacaK
+
 Package: en.apex.badgessplat
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: k4c4k
+Maintainer: sirapex
 Filename: ./debs/en.kacak.badgessplat_1.0_iphoneos-arm.deb
 Size: 19486
 MD5sum: 403c4ba27d6f785def8105ceec3ee848
 SHA1: fb2f29d1fbaa6f97d349426cc986a572bccc36f3
 SHA256: aa8211e1941b00a51996fe24bc1ef5db4556051b2cb895020951982d48df11a3
-Section: Themes
+Section: Cydia Category
 Description: badges splat
-Author: k4c4k
+Author: sirapex
 Name: badges splat
 
 Package: en.kacak.MYzeppelin
 Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: k4c4k
+Maintainer: sirapex
 Filename: ./debs/en.kacak.MYzeppelin_1.2_iphoneos-arm.deb
 Size: 204900
 MD5sum: aa1955f7e6de66de1e6a82b9fbe9e6a6
 SHA1: 587f6178bcc77e6d5fc0594c96c4954dd64de594
 SHA256: d9ad9bef4952b09f4236e4e35a2605fac64ee519bb985fb82c5ef1947fce8bf9
-Section: Zeppelin
+Section: Cydia Category
 Description: Malaysian Carrier Logos. Obviously required and apply with Zeppelin. Support IOS 8.3 - 10.2. Compatible devices : iphone 5/5s, 6/6s
-Author: k4c4k
+Author: sirapex
 Name: Malaysian Mobile Network for Zeppelin
 
 Package: en.kacak.freshAFZeppelin
 Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: k4c4k
+Maintainer: Unknown
 Filename: ./debs/en.kacak.freshAFZeppelin_1.1_iphoneos-arm.deb
 Size: 43188
 MD5sum: b3e61a2f9d3706b1266cd47354b6a75a
 SHA1: 3eb865d40e521bc51cb3121d8423de093072d975
 SHA256: 9f423f98b46a249dbf051d65e5e668961829a10b8a301518e43eab03041f9bac
-Section: Zeppelin
+Section: Cydia Category
 Description: bla bla bla
-Author: k4c4k
+Author: Unknown
 Name: freshAF Zeppelin
 
 Package: en.sirapex.skulldjvolumehud
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: k4c4k
+Maintainer: sir apex
 Filename: ./debs/en.kacak.skulldjvolumehud_1.0_iphoneos-arm.deb
 Size: 367940
 MD5sum: 8d78e31d40555f0bb9bd41f91f7b93c9
 SHA1: 832af2b0b66e8d5fa8d08ff55cf36cac3d1dd729
 SHA256: bc3604e738a13f8c8dfcfdd662ba78fca298b5355e2afd8a773094bf422b9926
-Section: Themes
+Section: Cydia Category
 Description: Replace the normal boring volume hud to Skull DJ Volume Hud
-Author: k4c4k
+Author: sir apex
 Name: Skull DJ Volume Hud
 
 Package: en.sirapex.skulldjvolumehud
 Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: k4c4k
+Maintainer: sir apex
 Filename: ./debs/en.sirapex.skulldjvolumehud_1.1_iphoneos-arm.deb
 Size: 67668
 MD5sum: e3f06a5c92e3c774bcb0f9ef58d49365
 SHA1: 936b3987357d659f784b77b69482850981bc3e75
 SHA256: 39eab6d4c0140c06941e534b08563e9edee1625ce6a85c15572c275a3f806963
-Section: Themes
+Section: Cydia Category
 Description: Replace the normal boring volume hud to Skull DJ Volume Hud
-Author: k4c4k
+Author: sir apex
 Name: Skull DJ Volume Hud
+
+Package: this.is.astropaul2
+Version: 0.0
+Architecture: iphoneos-arm
+Maintainer: k4c4k
+Filename: ./debs/this.is.astropaul2_0.0_iphoneos-arm.deb
+Size: 708566
+MD5sum: 0af7fe5aa0718f68b61250911e999e3f
+SHA1: 05a798b1b16a6336409344e819d91a2625d3884b
+SHA256: 1a28d5d62457e87ae5017dac0b99182b8f2e0b2b39e2f11ed3812e6d50a2ec0f
+Section: Themes
+Description: astropaul 2
+Author: unknown
+Name: Astropaul 2
 
 Package: this.is.twopixel
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: k4c4k
+Maintainer: Unknown
 Filename: ./debs/this.is.twopixel_1.0_iphoneos-arm.deb
 Size: 1723614
 MD5sum: 526d0119bcab55dd693c8e03d4f528a4
 SHA1: 21ed72ccaeeb927389c31b4afa64d41e939f68cc
 SHA256: 009a372706783c78e37d5b4fdd18a7622bb522ee6aa9d01f7757bde8c32acc1b
-Section: Themes
+Section: Cydia Category
 Description: Originally from Xiaomi Redmi Note 4.
-Author: k4c4k
+Author: Unknown
 Name: TwoPixel
 
